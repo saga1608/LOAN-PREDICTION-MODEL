@@ -1,6 +1,9 @@
 # LOAN-PREDICTION-MODEL
+
 This is a Classification Problem which predicts if a loan will get approved or not.
+
 DATASET:The data has 615 rows and 13 columns.
+
 The following are the variables on the basis of which classifier based on :
 
 Loan_ID - Unique Loan ID
